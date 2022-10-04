@@ -1,7 +1,7 @@
 {
-  "name": "Aurora",
-  "version": "Borealis",
-  "description": "Aurora Borealis, a beatiful play of lights on the sky",
+  "name": "tree",
+  "version": "lol",
+  "description": "xd",
   "authors": [
     {
       "name": "Fel1x#2802",
@@ -153,7 +153,7 @@
   },
   "background": {
     "blur": 1,
-    "url": "https://media.discordapp.net/attachments/996426870633545831/1002516638173769758/CF90EDCD-8717-42DB-B2F3-C11D1BC7E8A2.jpg",
+    "url": "https://media.discordapp.net/attachments/1016311707372617788/1026920701283815484/CF90EDCD-8717-42DB-B2F3-C11D1BC7E8A2.png?width=459&height=670",
     "alpha": 1.0
   }
 }
