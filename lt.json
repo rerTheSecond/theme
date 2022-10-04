@@ -1,17 +1,16 @@
-
 {
-  "name": "Pink_iphone",
-  "version": "1.0",
-  "description": "Pink Anime Theme",
+  "name": "Aurora",
+  "version": "Borealis",
+  "description": "Aurora Borealis, a beatiful play of lights on the sky",
   "authors": [
     {
-      "name": "melonwer",
-      "id": "848518188195250176"
+      "name": "Fel1x#2802",
+      "id": "499287211381096458"
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#0a0408",
+      "#1e201f",
       "#FFFFFF"
     ],
     "HEADER_PRIMARY": [
@@ -31,7 +30,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_NORMAL": [
-      "#d160cf",
+      "#0eb04b",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
@@ -39,7 +38,7 @@
       "#FFFFFF"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#d160cf",
+      "#26b65c",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
@@ -47,59 +46,59 @@
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_TERTIARY": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_ACCENT": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_FLOATING": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_NESTED_FLOATING": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#1a1926",
+      "#1e201f",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#171717",
+      "#202120",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#171717",
+      "#202120",
       "#FFFFFF"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
-      "#171717",
+      "#1e201f",
       "#FFFFFF"
     ],
     "SCROLLBAR_THIN_THUMB": [
@@ -123,38 +122,38 @@
       "#FFFFFF"
     ],
     "CHANNELS_DEFAULT": [
-      "#ff63bc",
+      "#26b65c",
       "#FFFFFF"
     ],
     "TEXT_LINK": [
-      "#d62515",
+      "#26b65c",
       "#6c56c4"
     ],
     "CHANNEL_ICON": [
-      "#ff63bc",
+      "#26b65c",
       "#6c56c4"
-    ]
+    ] 
   },
   "colours": {
-    "PRIMARY_DARK": "#171717",
-    "PRIMARY_DARK_100": "#ffffff",
-    "PRIMARY_DARK_200": "#ffffff",
-    "PRIMARY_DARK_300": "#B6B6B6",
-    "PRIMARY_DARK_360": "#C8C8C8",
-    "PRIMARY_DARK_400": "#C8C8C8",
-    "PRIMARY_DARK_500": "#0c0c0c",
-    "PRIMARY_DARK_600": "#171717",
-    "PRIMARY_DARK_630": "#1f1f1f",
-    "PRIMARY_DARK_700": "#171717",
-    "PRIMARY_DARK_800": "#171717",
-    "PRIMARY_DARK_900": "#171717"
+    "PRIMARY_DARK": "#1e201f",
+    "PRIMARY_DARK_100": "#F1F1F1",
+    "PRIMARY_DARK_200": "#1e201f",
+    "PRIMARY_DARK_300": "#F1F1F1",
+    "PRIMARY_DARK_360": "#5bd267",
+    "PRIMARY_DARK_400": "#1e201f",
+    "PRIMARY_DARK_500": "#1e201f",
+    "PRIMARY_DARK_600": "#1e201f",
+    "PRIMARY_DARK_630": "#212121",
+    "PRIMARY_DARK_700": "#1e201f",
+    "PRIMARY_DARK_800": "#1e201f",
+    "PRIMARY_DARK_900": "#1e201f"
   },
   "unsafe_colors": {
-    "CHAT_GREY": "#171717"
+    "CHAT_GREY": "#1e201f"
   },
   "background": {
-    "blur": 0.1,
-    "url": "https://media.discordapp.net/attachments/815279251863502908/1026925277290434630/CF90EDCD-8717-42DB-B2F3-C11D1BC7E8A2_2.jpg",
+    "blur": 1,
+    "url": "https://media.discordapp.net/attachments/815279251863502908/1026928439204266005/CF90EDCD-8717-42DB-B2F3-C11D1BC7E8A2.png",
     "alpha": 1.0
   }
 }
